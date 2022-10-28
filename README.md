@@ -29,3 +29,7 @@ NA
 
 * [Data Stream Development with Apache Spark, Kafka, and Spring Boot [Video]](https://www.packtpub.com/application-development/data-stream-development-apache-spark-kafka-and-spring-boot-video?utm_source=github&utm_medium=repository&utm_campaign=9781789539585)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789346534">https://packt.link/free-ebook/9781789346534 </a> </p>
